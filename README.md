@@ -1,2 +1,2 @@
 # PhotoOrganizerDocumentation
-Documentation for the PhotoOrganizer repository
+Documentation for the PhotoOrganizer application
